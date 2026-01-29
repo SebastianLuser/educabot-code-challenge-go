@@ -1,5 +1,5 @@
 *.exe
-
+.idea
 coverage.out
 
 nul
