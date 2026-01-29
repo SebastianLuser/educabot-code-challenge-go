@@ -1,0 +1,10 @@
+*.exe
+
+coverage.out
+
+nul
+
+.claude/
+
+*.test
+*.out
