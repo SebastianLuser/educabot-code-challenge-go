@@ -4,7 +4,7 @@
 
 Sin programar nada todavia ayudame a analizar considerando La app ya funciona y debo mejorar calidad y estructura sin sobre-ingeniería.
 Objetivos: estándares Go, separación por capas (presentación vs negocio), DI simple, uso correcto de context, y alta cobertura de unit tests.
-Reglas estrictas para tests:
+Reglas estrictas para tests
 
 sin comentarios
 
